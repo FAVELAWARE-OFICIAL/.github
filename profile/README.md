@@ -10,8 +10,6 @@
 [![Instagram](https://img.shields.io/badge/@favelaware-EE30D8?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/favelaware)
 [![E-mail](https://img.shields.io/badge/favelaware@gmail.com-8BC53F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:favelaware@gmail.com)
 
-<img src="https://raw.githubusercontent.com/FAVELAWARE-OFICIAL/.github/main/profile/imgs/banner.png" width="100%" alt="Banner Favela Ware: comunidade e código binário" />
-
 </div>
 
 ---
@@ -59,14 +57,6 @@ timeline
     2025 : Edição III - Rede Transformar e Ânima Hub entram no time
          : Oficinas abertas, nova turma e novo site oficial
 ```
-
-<div align="center">
-
-| <img src="https://raw.githubusercontent.com/FAVELAWARE-OFICIAL/.github/main/profile/imgs/abertura-2022.jpg" width="420" alt="Abertura do projeto - 2022"> | <img src="https://raw.githubusercontent.com/FAVELAWARE-OFICIAL/.github/main/profile/imgs/formatura-2022.jpg" width="420" alt="Formatura na Mundiale - 2022"> |
-|:---:|:---:|
-| *Abertura do projeto com as professoras Samara, Rafaela, Tatiana e Iracema, os parceiros da Mundiale, das Obras Pavonianas e alunos - 2022* | *Formatura do projeto Favelaware na Mundiale - 2022* |
-
-</div>
 
 ## Como fazemos
 
